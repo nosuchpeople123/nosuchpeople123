@@ -4,6 +4,12 @@ Justin Diaz is a results-driven Lead Product Designer with 14 years in SaaS, Ad 
 
 Portfolio: [idiaz.design](https://idiaz.design)
 
+#### All my 2026 commits
+
+<img src="all-2026-commits.svg" alt="Contribution graph: 2,780 commits on 137 days, March to November 2026: SEW 1,086, Buenro 1,406, Personal 288" width="100%">
+
+<sub>Every commit I authored in 2026, split by where the work was: SEW, Buenro and personal projects. A day with work in more than one is split. Counted once each from local git history; bots left out.</sub>
+
 ---
 
 ### SEW: Design system, design ops & prototyping
